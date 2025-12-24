@@ -3,6 +3,11 @@
 ## Overview
 This project focuses on analyzing business-related data to identify trends, patterns, and insights that support data-driven decision making.
 
+## Data Analysis Notebook
+- [View analysis notebook](notebooks/analysis.ipynb)
+
+This notebook includes basic exploratory data analysis and visualizations using Python.
+
 ## Objectives
 - Clean and prepare raw business data
 - Perform exploratory data analysis (EDA)
