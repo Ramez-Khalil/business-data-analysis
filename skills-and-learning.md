@@ -1,9 +1,9 @@
 # Skills & Learning
 
 ## Networking & Systems
-- Cisco Certified (Networking fundamentals and hands-on configuration)
+- Cisco Certified (CCNA: Introduction to Networks)
 - Understanding of network concepts, routing, switching, and troubleshooting
-- - Cisco Certificate (PDF): [View certificate](certificates/cisco-certificate.pdf)
+- Certificate: [View CCNA Certificate](certificates/CCNA-_Introduction_to_Networks_certificate.pdf)
 
 ## Cloud & Infrastructure
 - Hands-on experience with AWS services through labs and practice
