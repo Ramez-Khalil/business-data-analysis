@@ -1,27 +1,27 @@
-# Business Data Analysis Project
+# Business Data Analysis — Introductory Python Notebook
 
-## Overview
-This project focuses on analyzing business-related data to identify trends, patterns, and insights that support data-driven decision making.
+**Current artifact:** a short Jupyter notebook using a **five-month illustrative sales dataset defined in code**, not a sourced business dataset or production analytics pipeline.
 
-## Data Analysis Notebook
-- [View analysis notebook](notebooks/analysis.ipynb)
+## What is actually in the notebook
 
-This notebook includes basic exploratory data analysis and visualizations using Python.
+- Imports `pandas` and `matplotlib.pyplot`
+- Creates a small DataFrame with months January–May and sample sales figures
+- Displays the DataFrame
+- Plots a line chart of monthly sales
 
-## Objectives
-- Clean and prepare raw business data
-- Perform exploratory data analysis (EDA)
-- Generate insights relevant to business operations and performance
+[Inspect the notebook](notebooks/analysis.ipynb).
 
-## Tools & Technologies
-- Python
-- Pandas
-- Matplotlib / Seaborn
-- CSV datasets
+## Scope and results
 
-## Project Status
-In progress. Additional analysis and visualizations will be added.
+This is an introductory visualization exercise, not an end-to-end analysis of real company data. No external CSV, cleaning pipeline, forecasting model, database, decision recommendations, or validated business findings are currently provided. The sample values are **illustrative**, so they should not be interpreted as measured sales.
 
-## Why This Project Matters
-Understanding and analyzing data is critical for business and information systems roles. This project demonstrates practical analytical thinking and technical skills applied to real-world business scenarios.
+## Reuse
 
+Open `notebooks/analysis.ipynb` in a Jupyter-compatible environment with Python, pandas, and matplotlib installed. The data is embedded in the notebook; no external dataset is required.
+
+## Related learning
+
+- [Learning and skills — verified wording](skills-and-learning.md)
+- [Cisco Networking Academy course completion evidence](certificates/CCNA-_Introduction_to_Networks_certificate.pdf) (**not** official CCNA certification)
+
+**Status:** Simple working example; richer analysis using a documented dataset is future work.
