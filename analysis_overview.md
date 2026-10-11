@@ -1,19 +1,16 @@
 # Analysis Overview
 
-## Dataset
-This project will use publicly available business datasets (such as sales, customer, or operations data) in CSV format.
+## Current scope
 
-## Approach
-- Import and inspect the dataset
-- Clean missing or inconsistent data
-- Perform exploratory data analysis
-- Identify key trends and insights
+The committed Jupyter notebook demonstrates a **basic line chart** of five months of **illustrative**, in-memory sales numbers using Python, pandas, and matplotlib. No externally sourced business dataset is supplied, and no business conclusions are claimed.
 
-## Expected Outcomes
-- Clear visualizations of business performance
-- Actionable insights to support decision-making
+[Open the notebook](notebooks/analysis.ipynb).
 
-## Next Steps
-- Select dataset
-- Add Python notebook for analysis
-- Generate charts and summary findings
+## Possible future work — not completed
+
+- Select and cite an appropriately licensed dataset
+- Import the dataset and document cleaning steps
+- Explore trends and explain uncertainty
+- Add reproducible visuals and a concise findings section
+
+These are plans only; they are not features of the current notebook.
